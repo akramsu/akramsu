@@ -1,6 +1,3 @@
-
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 # Hi there, I'm Akram 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
