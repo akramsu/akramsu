@@ -28,7 +28,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Web Development</summary>
 <br>
 <p align="left">
@@ -39,7 +39,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Data Science & ML</summary>
 <br>
 <p align="left">
@@ -53,7 +53,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary>DevOps & Infrastructure</summary>
 <br>
 <p align="left">
@@ -66,7 +66,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary>Databases</summary>
 <br>
 <p align="left">
@@ -75,7 +75,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary>UI/UX & Design</summary>
 <br>
 <p align="left">
