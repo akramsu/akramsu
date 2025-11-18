@@ -1,15 +1,15 @@
 # Hi there, I'm Akram 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Machine+Learning+Enthusiast;Natural+Language+Processing+Explorer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 > Building digital solutions that matter. Passionate about clean code, data-driven decisions, and creating technology that helps people.
 
 ## 🚀 About Me
 
 - 🎓 Informatics student with a focus on software development and data science
-- 💻 Currently building [TourEase](https://github.com/akramsu/TourEase), an AI-powered tourism management information system 
+- 💻 Currently building a mobile application aligned with the UN Sustainable Development Goals (SDGs) to create meaningful social impact
 - 🔭 Exploring the intersection of machine learning and web technologies
-- 🌱 Always learning: Currently diving into cloud architecture and DevOps practices
+- 🌱 Always learning: Currently diving into modern backend technologies and Natural Language Processing
 - 👯 Looking to collaborate on open-source projects with social impact
 - 💬 Ask me about software development, data analysis, or problem-solving approaches
 
@@ -20,11 +20,26 @@
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+</details>
+
+<details open>
+<summary>Backend Development</summary>
+<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
 </p>
 </details>
 
@@ -34,7 +49,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 </details>
@@ -50,6 +64,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 </details>
 
@@ -70,7 +85,8 @@
 <summary>Databases</summary>
 <br>
 <p align="left">
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 </details>
@@ -87,6 +103,23 @@
 
 ## 🛠️ Featured Projects
 
+**TourEase** - An AI-powered tourism management information system
+
+```
+MIS | 🤖 ML-based recommendations | 🗺️ Interactive mapping | 🔒 Secure authentication
+```
+
+[Repository](https://github.com/akramsu/E-Tourism) 
+
+---
+
+**🌍 SDGs Mobile App**
+
+Mobile application promoting and tracking UN Sustainable Development Goals initiatives
+
+`NestJS` `React Native` `Prisma ORM` `MySQL`
+
+[Repository]([#](https://github.com/akramsu/mobile-app) 
 
 **✨ Skillfy_AI**
 
@@ -108,7 +141,7 @@ Platform connecting student communities and organizations for better collaborati
 
 Desktop application for streamlining medical services and purchasing medicines
 
-`Java` `JavaFX`  `SceneBuilder`
+`Java` `JavaFX` `SceneBuilder`
 
 [Code](https://github.com/akramsu/MediSync) 
 
@@ -120,55 +153,39 @@ Machine learning model using SVM classifier to detect pneumonia from chest X-ray
 
 [Code](https://github.com/akramsu/Chest-XRay-Pneumonia-Detection) 
 
-**🔍 Indonesian Provinces Clustering Analysis**
+**📊 Indonesian Provinces Clustering Analysis**
 
-a model performs clustering using K-Means for analysis helps in understanding the socio-economic landscape of Indonesian provinces
+K-Means clustering model for analyzing the socio-economic landscape of Indonesian provinces
 
-`Python` `scikit-learn` `OpenCV` `Pandas`
+`Python` `scikit-learn` `Pandas`
 
 [Code](https://github.com/akramsu/Indonesian_Provinces_Clustering_Analysis) 
 
-**🎓 The Informer**
+**📰 The Informer**
 
-a website offering all news and blogs features built using HTML, CSS and PHP
+Full-featured news and blog website with content management capabilities
 
 `PHP` `MySQL` `JS` `HTML` `CSS`
 
 [Code](https://github.com/akramsu/NewsWeb) 
-
-</div>
-
-### 🌟 Currently Working On
-
-<div align="center">
-
-**TourEase** - An AI-powered tourism management information system
-
-```
-MIS | 🤖 ML-based recommendations | 🗺️ Interactive mapping | 🔒 Secure authentication
-
-```
-
-[Repository](https://github.com/akramsu/TourEase) 
-
-</div>
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.akramalsurabi@gmail.com">
+  <a href="mailto:akramalsurabi@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    </a>
   <a href="https://instagram.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 ---
 
 <div align="center">
