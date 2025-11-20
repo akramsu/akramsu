@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Informatics student with a focus on software development and data science
-- 💻 Currently building a mobile application aligned with the UN Sustainable Development Goals (SDGs) to create meaningful social impact
-- 🔭 Exploring the intersection of machine learning and web technologies
-- 🌱 Always learning: Currently diving into modern backend technologies and Natural Language Processing
-- 👯 Looking to collaborate on open-source projects with social impact
-- 💬 Ask me about software development, data analysis, or problem-solving approaches
+- 🎓 Informatics student with a focus on software development and data science  
+- 🔭 Exploring the intersection of machine learning and web technologies  
+- 🌱 Always learning: Currently diving into modern backend technologies and Natural Language Processing  
+- 💻 Currently building a mobile application aligned with the UN Sustainable Development Goals (SDGs) to create meaningful social impact  
+- 👯 Looking to collaborate on open-source projects with social impact  
+- 💬 Ask me about software development, data analysis, or problem-solving approaches  
 
 ## 💻 Technologies & Tools
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
 </p>
 </details>
@@ -103,86 +104,74 @@
 
 ## 🛠️ Featured Projects
 
-**TourEase** - An AI-powered tourism management information system
-
-```
-MIS | 🤖 ML-based recommendations | 🗺️ Interactive mapping | 🔒 Secure authentication
-```
-
-[Repository](https://github.com/akramsu/E-Tourism) 
+### **TourEase**  
+AI-powered tourism management information system  
+MIS, ML-based recommendations, interactive mapping, and secure authentication.  
+**[Repository](https://github.com/akramsu/E-Tourism)**
 
 ---
 
-**🌍 SDGs Mobile App**
+### **Skillfy_AI**  
+AI-powered platform for resume building and job matching using ML-based algorithms  
+`Python` `TensorFlow` `Bootstrap` `PHP`  
+**[Repository](https://github.com/akramsu/Skillfy_AI)**
 
-Mobile application promoting and tracking UN Sustainable Development Goals initiatives
+---
 
-`NestJS` `React Native` `Prisma ORM` `MySQL`
+### **Campus Connect**  
+Platform connecting student communities and organizations for better collaboration  
+`PHP` `MySQL` `JS` `HTML` `CSS`  
+**[Repository](https://github.com/akramsu/CampusConnect)**
 
-[Repository]([#](https://github.com/akramsu/mobile-app) 
+---
 
-**✨ Skillfy_AI**
+### **MediSync**  
+Desktop application for streamlining medical services and purchasing medicines  
+`Java` `JavaFX` `SceneBuilder`  
+**[Repository](https://github.com/akramsu/MediSync)**
 
-AI-powered platform for resume building and job matching using ML-based algorithms
+---
 
-`Python` `TensorFlow` `Bootstrap` `PHP`
+### **Pneumonia Detection**  
+Machine learning model using SVM classifier to detect pneumonia from chest X-rays  
+`Python` `Matplotlib` `scikit-learn` `OpenCV` `Pandas`  
+**[Repository](https://github.com/akramsu/Chest-XRay-Pneumonia-Detection)**
 
-[Code](https://github.com/akramsu/Skillfy_AI) 
+---
 
-**🎓 Campus Connect**
+### **Indonesian Provinces Clustering Analysis**  
+K-Means clustering model for analyzing the socio-economic landscape of Indonesian provinces  
+`Python` `scikit-learn` `Pandas`  
+**[Repository](https://github.com/akramsu/Indonesian_Provinces_Clustering_Analysis)**
 
-Platform connecting student communities and organizations for better collaboration
+---
 
-`PHP` `MySQL` `JS` `HTML` `CSS`
+### **The Informer**  
+Full-featured news and blog website with content management capabilities  
+`PHP` `MySQL` `JS` `HTML` `CSS`  
+**[Repository](https://github.com/akramsu/NewsWeb)**
 
-[Code](https://github.com/akramsu/CampusConnect) 
+---
 
-**🏥 MediSync**
-
-Desktop application for streamlining medical services and purchasing medicines
-
-`Java` `JavaFX` `SceneBuilder`
-
-[Code](https://github.com/akramsu/MediSync) 
-
-**🔍 Pneumonia Detection**
-
-Machine learning model using SVM classifier to detect pneumonia from chest X-rays
-
-`Python` `Matplotlib` `scikit-learn` `OpenCV` `Pandas`
-
-[Code](https://github.com/akramsu/Chest-XRay-Pneumonia-Detection) 
-
-**📊 Indonesian Provinces Clustering Analysis**
-
-K-Means clustering model for analyzing the socio-economic landscape of Indonesian provinces
-
-`Python` `scikit-learn` `Pandas`
-
-[Code](https://github.com/akramsu/Indonesian_Provinces_Clustering_Analysis) 
-
-**📰 The Informer**
-
-Full-featured news and blog website with content management capabilities
-
-`PHP` `MySQL` `JS` `HTML` `CSS`
-
-[Code](https://github.com/akramsu/NewsWeb) 
+### **SDGs Mobile App**  
+Mobile application promoting and tracking UN Sustainable Development Goals initiatives  
+`NestJS` `React Native` `Prisma ORM` `MySQL`  
+**[Repository](https://github.com/akramsu/mobile-app)**
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+  <a href="#" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=portfolio&logoColor=white" />
   </a>
   <a href="mailto:akramalsurabi@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
