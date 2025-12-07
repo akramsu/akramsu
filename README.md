@@ -125,10 +125,10 @@ Platform connecting student communities and organizations for better collaborati
 
 ---
 
-### **MediSync**  
-Desktop application for streamlining medical services and purchasing medicines  
-`Java` `JavaFX` `SceneBuilder`  
-**[Repository](https://github.com/akramsu/MediSync)**
+### **Freshly – AI powered Food Waste Reduction Mobile App**  
+Mobile application that helps users reduce food waste by tracking expiry dates, optimizing food usage, and receiving AI-powered insights. 
+`Kotlin` `Jetpack Compose` `Firebase Database` `Gemini API`  
+**[Repository](https://github.com/akramsu/mobile-app)**
 
 ---
 
@@ -146,17 +146,17 @@ K-Means clustering model for analyzing the socio-economic landscape of Indonesia
 
 ---
 
+### **MediSync**  
+Desktop application for streamlining medical services and purchasing medicines  
+`Java` `JavaFX` `SceneBuilder`  
+**[Repository](https://github.com/akramsu/MediSync)**
+
+---
+
 ### **The Informer**  
 Full-featured news and blog website with content management capabilities  
 `PHP` `MySQL` `JS` `HTML` `CSS`  
 **[Repository](https://github.com/akramsu/NewsWeb)**
-
----
-
-### **SDGs Mobile App**  
-Mobile application promoting and tracking UN Sustainable Development Goals initiatives  
-`NestJS` `React Native` `Prisma ORM` `MySQL`  
-**[Repository](https://github.com/akramsu/mobile-app)**
 
 ## 📫 Connect With Me
 
